@@ -3,7 +3,7 @@
 Soy estudiante de Informática Educativa, un apasionado programador junior en busca de oportunidades para aprender y crecer en el mundo de la programación.
 Durante mi formación académica y proyectos personales, he adquirido experiencia en lenguajes de programación como: Phyton, C#, HTML, CSS, JavaScript y Php. 💻
 
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
